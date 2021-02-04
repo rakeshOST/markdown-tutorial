@@ -15,3 +15,5 @@
 [readme link](https://github.com/rakeshOST/markdown-tutorial/blob/main/README.md)
 
 [square backets]
+
+- [square brackets with bullet]
